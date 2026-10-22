@@ -1,3 +1,5 @@
+<img src="assets/Word_Compare.png" width="80" height="80" alt="Word_Compare 图标" />
+
 # Word_Compare
 
 Windows Word 文档双栏对比工具，提供文字差异、格式与图片变化查看，以及审核记录和报告导出。
